@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# Welcome
+# Welcome
 
 Trang Gitbook tập hợp các nội dung cơ bản về Blockchain, được xây dựng bởi cá nhân Hồ Ngọc Hải, các kiến thức được thông tin các tài liệu tham khảo được trích dẫn đầy đủ.
 
