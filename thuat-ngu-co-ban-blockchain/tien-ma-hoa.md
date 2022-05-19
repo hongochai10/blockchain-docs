@@ -20,11 +20,11 @@ Các định nghĩa tiền mã hoá từ nhiều nguồn khác nhau:&#x20;
 
 Tiền mã hoá xuất phát nguồn gốc từ mật mã học (CryptoCurrency - Cryptography).&#x20;
 
-**Cryptography** à một lĩnh vực liên quan đến các kỹ thuật ngôn ngữ và toán học để đảm bảo [an toàn thông tin](https://vi.wikipedia.org/wiki/An\_to%C3%A0n\_th%C3%B4ng\_tin), cụ thể là trong [thông tin liên lạc](https://vi.wikipedia.org/wiki/Th%C3%B4ng\_tin\_li%C3%AAn\_l%E1%BA%A1c). Cốt lõi của mật mã học hiện nay là áp dụng Toán học, khoa học máy tính, khoa học thông tin, ... và nhiều mảng khác nhằm cũng cố và phát triển với tốc độ thông tin ngày nay.
+**Cryptography** là một lĩnh vực liên quan đến các kỹ thuật ngôn ngữ và toán học để đảm bảo [an toàn thông tin](https://vi.wikipedia.org/wiki/An\_to%C3%A0n\_th%C3%B4ng\_tin), cụ thể là trong [thông tin liên lạc](https://vi.wikipedia.org/wiki/Th%C3%B4ng\_tin\_li%C3%AAn\_l%E1%BA%A1c). Cốt lõi của mật mã học hiện nay là áp dụng Toán học, khoa học máy tính, khoa học thông tin, ... và nhiều mảng khác nhằm cũng cố và phát triển với tốc độ thông tin ngày nay.
 
 **Cryptanalysis** là ngành học nghiên cứu các phương thức để thu được ý nghĩa của thông tin đã được mã hóa. Điều này liên quan đến việc tìm khóa bí mật.
 
-\-> Hướng đến tương lai, nhiệm vụ của ryptanalysis sẽ giải mã được các khoá Private Key và Public Key của các ví tiền mã hoá, thúc đẩy sự tiến bộ vượt bậc của ngành công nghệ này.
+\-> Hướng đến tương lai, nhiệm vụ của Cryptanalysis sẽ giải mã được các khoá Private Key và Public Key của các ví tiền mã hoá, thúc đẩy sự tiến bộ vượt bậc của ngành công nghệ này.
 
 \
 Tài liệu tham khảo từ:
