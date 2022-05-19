@@ -7,16 +7,13 @@ coverY: 0
 
 # Welcome
 
-Trang Gitbook tập hợp các nội dung cơ bản về Blockchain, được xây dựng bởi cá nhân Hồ Ngọc Hải, các kiến thức được thông tin các tài liệu tham khảo được trích dẫn đầy đủ.
+Trang Gitbook tập hợp các nội dung cơ bản về Blockchain, được xây dựng bởi cá nhân Hồ Ngọc Hải, các kiến thức được thông tin các tài liệu tham khảo được trích dẫn đầy đủ.
 
 Cơ sở nội dung kiến thức dựa trên các tài liệu tham khảo từ:
 
 * Binance Academy: [https://academy.binance.com/vi](https://academy.binance.com/vi)
 * arXiv - Cornel University: [https://arxiv.org/](https://arxiv.org/)
 * Ethereum Improvement Proposals (EIPs): [https://eips.ethereum.org/](https://eips.ethereum.org/)
-
-Ngoài ra xin cảm ơn các kênh thông tin từ :&#x20;
-
 * Ethereum: [https://ethereum.org/](https://ethereum.org/)
 * Binance: [https://www.binance.com/](https://www.binance.com/)
 * Google Research: [https://research.google/](https://research.google/)
