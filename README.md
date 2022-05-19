@@ -1,5 +1,5 @@
 ---
-description: Gửi lời cảm ơn tới các đọc giả đã theo dõi
+description: Gửi lời cảm ơn tới các đọc giả đã theo dõi.
 cover: >-
   https://images.unsplash.com/photo-1605792657660-596af9009e82?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxibG9ja2NoYWlufGVufDB8fHx8MTY1Mjg5NzYwNQ&ixlib=rb-1.2.1&q=85
 coverY: 0

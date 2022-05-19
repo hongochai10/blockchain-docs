@@ -6,9 +6,19 @@ description: Bitcoin là một đồng tiền mã hoá được tạo bới ngư
 
 ## Bitcoin là gì?
 
-Theo coinbase: The world’s first widely-adopted cryptocurrency. With Bitcoin, people can securely and directly send each other digital money on the internet.
+Tập hợp các thuật ngữ về Bitcoin từ các nguồn:
 
-Tiền điện tử được chấp nhận rộng rãi đầu tiên trên thế giới. Với Bitcoin, mọi người có thể gửi tiền kỹ thuật số cho nhau một cách an toàn và trực tiếp trên internet.
+| Nguồn    | Định nghĩa                                                                                                                                                                                                                                                                                                                                             |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Coinbase | <p>En:</p><p>The world’s first widely-adopted cryptocurrency. With Bitcoin, people can securely and directly send each other digital money on the internet.<br></p><p>Vi:<br>Tiền điện tử được chấp nhận rộng rãi đầu tiên trên thế giới. Với Bitcoin, mọi người có thể gửi tiền kỹ thuật số cho nhau một cách an toàn và trực tiếp trên internet.</p> |
+|          |                                                                                                                                                                                                                                                                                                                                                        |
+|          |                                                                                                                                                                                                                                                                                                                                                        |
+|          |                                                                                                                                                                                                                                                                                                                                                        |
+|          |                                                                                                                                                                                                                                                                                                                                                        |
+
+
+
+
 
 Tài liệu tham khảo từ:
 
