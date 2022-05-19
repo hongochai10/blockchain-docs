@@ -8,10 +8,8 @@ description: Bitcoin là một đồng tiền mã hoá được tạo bới ngư
 
 Theo coinbase: The world’s first widely-adopted cryptocurrency. With Bitcoin, people can securely and directly send each other digital money on the internet.
 
-Tiền điện tử được chấp nhận rộng rãi đầu tiên trên thế giới. Với Bitcoin, mọi người có thể gửi tiền kỹ thuật số cho nhau một cách an toàn và trực tiếp trên internet.\
+Tiền điện tử được chấp nhận rộng rãi đầu tiên trên thế giới. Với Bitcoin, mọi người có thể gửi tiền kỹ thuật số cho nhau một cách an toàn và trực tiếp trên internet.
 
-
-\
 Tài liệu tham khảo từ:
 
 * Binance Academy: [https://academy.binance.com/vi/articles/what-is-cryptocurrency](https://academy.binance.com/vi/articles/what-is-cryptocurrency)
