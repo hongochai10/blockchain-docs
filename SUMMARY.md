@@ -5,7 +5,9 @@
 ## Thuật Ngữ Cơ Bản Blockchain
 
 * [Tiền mã hóa](thuat-ngu-co-ban-blockchain/tien-ma-hoa.md)
-* [Bitcoin là gì?](thuat-ngu-co-ban-blockchain/bitcoin-la-gi.md)
+* [Bitcoin](thuat-ngu-co-ban-blockchain/bitcoin.md)
+* [Stablecoin](thuat-ngu-co-ban-blockchain/stablecoin.md)
+* [Liquidity Providers](thuat-ngu-co-ban-blockchain/liquidity-providers.md)
 
 ## Version
 
