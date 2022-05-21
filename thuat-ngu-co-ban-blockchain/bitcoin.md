@@ -17,9 +17,9 @@ Theo coinbase, sự khác nhau giữa tiền mã hoá và tiền tệ:
 
 ![Theo coinbase, sự khác nhau giữa tiền mã hoá và tiền tệ.](../.gitbook/assets/image.png)
 
-Tiền điện tử và tiền tệ truyền thống có một số đặc điểm - như cách bạn có thể sử dụng chúng để mua đồ hoặc cách bạn có thể chuyển chúng bằng điện tử - nhưng chúng cũng khác nhau theo những cách thú vị. Dưới đây là một vài điểm nổi bật.
+Tiền điện tử và tiền tệ truyền thống có một số đặc điểm - như cách bạn có thể sử dụng chúng để mua đồ hoặc cách bạn có thể chuyển chúng bằng điện tử - nhưng chúng cũng khác nhau theo những cách thú vị.&#x20;
 
-> Bitcoin là mạng thanh toán hoàn toàn mở đầu tiên trên thế giới mà bất kỳ ai có kết nối Internet đều có thể tham gia. ****&#x20;
+> Bitcoin là mạng thanh toán hoàn toàn mở đầu tiên trên thế giới mà bất kỳ ai có kết nối Internet đều có thể tham gia. **Coinbase**
 
 
 
