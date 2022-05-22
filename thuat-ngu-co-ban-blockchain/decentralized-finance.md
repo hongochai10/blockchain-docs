@@ -1,5 +1,5 @@
 ---
-description: DeFi - Decentralized Finance
+description: DeFi - Decentralized Finance (Tài chính phi trập trung)
 ---
 
 # Decentralized Finance
@@ -17,8 +17,6 @@ Các định nghĩa nói về Decentralized Finance:
 
 **Tài liệu tham khảo:**
 
-* Coinbase: [https://www.coinbase.com/learn/crypto-basics/what-is-defi](https://www.coinbase.com/learn/crypto-basics/what-is-defi)\
-
-* Coinmakercap: [https://blog.coinmarketcap.com/2020/07/31/what-is-defi-and-why-should-i-care-a-coinmarketcap-step-by-step-guide/](https://blog.coinmarketcap.com/2020/07/31/what-is-defi-and-why-should-i-care-a-coinmarketcap-step-by-step-guide/)\
-
+* Coinbase: [https://www.coinbase.com/learn/crypto-basics/what-is-defi](https://www.coinbase.com/learn/crypto-basics/what-is-defi)
+* Coinmakercap: [https://blog.coinmarketcap.com/2020/07/31/what-is-defi-and-why-should-i-care-a-coinmarketcap-step-by-step-guide/](https://blog.coinmarketcap.com/2020/07/31/what-is-defi-and-why-should-i-care-a-coinmarketcap-step-by-step-guide/)
 * Binance: [https://academy.binance.com/en/glossary/defi](https://academy.binance.com/en/glossary/defi)
