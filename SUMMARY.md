@@ -8,6 +8,7 @@
 * [Bitcoin](thuat-ngu-co-ban-blockchain/bitcoin.md)
 * [Stablecoin](thuat-ngu-co-ban-blockchain/stablecoin.md)
 * [Liquidity Providers](thuat-ngu-co-ban-blockchain/liquidity-providers.md)
+* [Decentralized Finance](thuat-ngu-co-ban-blockchain/decentralized-finance.md)
 
 ## Version
 
