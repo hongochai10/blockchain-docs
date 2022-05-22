@@ -15,6 +15,7 @@
 ## Smart Contract Developer
 
 * [Solidity](smart-contract-developer/solidity.md)
+* [Layout of a Solidity Source File](smart-contract-developer/layout-of-a-solidity-source-file.md)
 
 ## Version
 

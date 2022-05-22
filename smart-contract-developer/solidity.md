@@ -4,7 +4,7 @@ description: Introduce Solidity
 
 # Solidity
 
-Theo Solidity:&#x20;
+**Theo Solidity:**&#x20;
 
 > Solidity is an object-oriented, high-level language for implementing smart contracts. Smart contracts are programs which govern the behaviour of accounts within the Ethereum state.
 >
