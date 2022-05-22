@@ -12,6 +12,10 @@
 * [Decentralized Finance](thuat-ngu-co-ban-blockchain/decentralized-finance.md)
 * [Metaverse](thuat-ngu-co-ban-blockchain/metaverse.md)
 
+## Smart Contract Developer
+
+* [Solidity](smart-contract-developer/solidity.md)
+
 ## Version
 
 * [Version](version/version-0.0.1.md)
