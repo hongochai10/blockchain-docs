@@ -6,7 +6,7 @@ description: Version 0.0.1 Breaking Changes
 
 ## Version 0.0.2 Breaking Changes
 
-
+* Cập nhật nội dung về Solidity (Smart Contract Developer)
 
 ## Version 0.0.1 Breaking Changes
 
