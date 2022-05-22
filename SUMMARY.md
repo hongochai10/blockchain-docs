@@ -6,10 +6,11 @@
 
 * [Tiền mã hóa](thuat-ngu-co-ban-blockchain/tien-ma-hoa.md)
 * [Bitcoin](thuat-ngu-co-ban-blockchain/bitcoin.md)
+* [Ethereum](thuat-ngu-co-ban-blockchain/ethereum.md)
 * [Stablecoin](thuat-ngu-co-ban-blockchain/stablecoin.md)
 * [Liquidity Providers](thuat-ngu-co-ban-blockchain/liquidity-providers.md)
 * [Decentralized Finance](thuat-ngu-co-ban-blockchain/decentralized-finance.md)
-* [Ethereum](thuat-ngu-co-ban-blockchain/ethereum.md)
+* [Metaverse](thuat-ngu-co-ban-blockchain/metaverse.md)
 
 ## Version
 
