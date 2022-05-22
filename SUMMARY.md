@@ -9,6 +9,7 @@
 * [Stablecoin](thuat-ngu-co-ban-blockchain/stablecoin.md)
 * [Liquidity Providers](thuat-ngu-co-ban-blockchain/liquidity-providers.md)
 * [Decentralized Finance](thuat-ngu-co-ban-blockchain/decentralized-finance.md)
+* [Ethereum](thuat-ngu-co-ban-blockchain/ethereum.md)
 
 ## Version
 
