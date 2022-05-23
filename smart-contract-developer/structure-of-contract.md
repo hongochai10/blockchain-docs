@@ -125,7 +125,7 @@ contract Ballot {
 }
 ```
 
-## Enum Typ
+## Enum Types
 
 Enums có thể được sử dụng để tạo các kiểu tuỳ chỉnh với một tập hợp hữu hạn các "Giá trị không thay đổi"
 

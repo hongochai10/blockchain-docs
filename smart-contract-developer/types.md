@@ -12,7 +12,7 @@ Solidity là một ngôn ngữ được định kiểu tĩnh, có nghĩa là ki�
 
 Value Types: Các kiểu sau đây còn được gọi là kiểu giá trị, vì các biến của kiểu này luôn được chuyển theo giá trị, tức là chúng luôn được sao chép khi chúng sử dụng làm đối số hàm hoặc trong phép gán.
 
-### Bo
+### Booleans
 
 `bool`: Các giá trị có thể là hằng số `true`và `false`.
 
