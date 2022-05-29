@@ -17,6 +17,7 @@ Cơ sở nội dung kiến thức dựa trên các tài liệu tham khảo từ:
 * Ethereum: [https://ethereum.org/](https://ethereum.org/)
 * Binance: [https://www.binance.com/](https://www.binance.com/)
 * Google Research: [https://research.google/](https://research.google/)
+* Ethereum Signature Database: [https://www.4byte.directory/](https://www.4byte.directory/)
 
 Trang Gitbook sẽ luôn được cập nhật ...
 
